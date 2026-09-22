@@ -2,7 +2,7 @@
 clear; clc;
 
 %% ---- Paths & datasets ----
-datasetRoot = '........';    % location of root folder
+datasetRoot = '....';    % location of root folder
 
 datasets = { ...
     'baseline/highway', ...
