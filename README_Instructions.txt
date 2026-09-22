@@ -27,6 +27,9 @@ After the simulation is complete, the F1 score is calculated using the official 
 Official CDnet Evaluator:
 [https://changedetection.net/code/]
 
+We have uploaded code that performs the same F1-score calculation much faster. The official code first processes the video into binary masks and then performs the comparison, which is more time-consuming and less memory-efficient. You are welcome to use either version.
+
+
 Support
 -------
 
